@@ -12,8 +12,6 @@ def insr():
 def invr():
     return(map(int,input().split()))
 
-
-
 n = inp()
 
 for i in range(n):
